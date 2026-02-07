@@ -1,0 +1,16 @@
+{
+  "name": "pr-watcher-test",
+  "version": "1.0.0",
+  "description": "Test repository for PR Watcher bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "node lint.js",
+    "build": "node build.js",
+    "security": "node security.js",
+    "coverage": "node coverage.js"
+  },
+  "keywords": ["test"],
+  "author": "",
+  "license": "MIT"
+}
