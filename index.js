@@ -13,3 +13,4 @@ function multiply(a, b) {
 
 module.exports = { add, subtract, multiply };
 console.log('test');
+console.log('test');
