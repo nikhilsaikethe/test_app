@@ -6,4 +6,4 @@ if (process.env.FAIL_SECURITY === 'true') {
   process.exit(1);
 }
 
-console.log('✅ No security issues detected!');
+console.log('✅ No security issues sdfdsf sdfds sdfds sdf sdf  sdfd sf sdf sdf sdetected!');
