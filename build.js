@@ -1,5 +1,5 @@
 // Build script
-console.log('Building application...');
+console.log('Building applicationass...');
 
 if (process.env.FAIL_BUILD === 'true') {
   console.error('❌ Build failed122!');
